@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exchange Gift Randomizer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      text-align: center;
+    }
+    button {
+      font-size: 18px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+    #result {
+      margin-top: 20px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exchange Gift Randomizer</h1>
+  <p>Click the button below to reveal your exchange gift partner!</p>
+  
+  <!-- Dropdown to select participant -->
+  <select id="participantSelect">
+    <option value="">Select your name</option>
+    <option value="jeffhumarang@gmail.com">jeffhumarang@gmail.com</option>
+    <option value="kristinnegulapa@gmail.com">kristinnegulapa@gmail.com</option>
+    <option value="roijohnsomigao@gmail.com">roijohnsomigao@gmail.com</option>
+    <option value="neilxd01@gmail.com">neilxd01@gmail.com</option>
+    <option value="justine05.js@gmail.com">justine05.js@gmail.com</option>
+    <option value="annabellemanay0216@gmail.com">annabellemanay0216@gmail.com</option>
+    <option value="aikhoacuna@gmail.com">aikhoacuna@gmail.com</option>
+    <option value="ayessasomigao@gmal.com">ayessasomigao@gmal.com</option>
+    <option value="jesussaves0415@gmail.com">jesussaves0415@gmail.com</option>
+    <option value="Mdaustria1022@gmail.com">Mdaustria1022@gmail.com</option>
+    <option value="lianecanonigo182@gmail.com">lianecanonigo182@gmail.com</option>
+    <option value="mhengthecat@gmail.com">mhengthecat@gmail.com</option>
+    <option value="garciamayeeh@yahoo.com">garciamayeeh@yahoo.com</option>
+    <option value="Tolentinoashley123@gmail.com">Tolentinoashley123@gmail.com</option>
+    <option value="Santosjerickcyrus@gmail.com">Santosjerickcyrus@gmail.com</option>
+    <option value="sottofourth12@gmail.com">sottofourth12@gmail.com</option>
+    <option value="x186426@gmail.com">x186426@gmail.com</option>
+    <option value="wilsonmabini058@gmail.com">wilsonmabini058@gmail.com</option>
+    <option value="dadahhumarang@gmail.com">dadahhumarang@gmail.com</option>
+    <option value="redllayan17@gmail.com">redllayan17@gmail.com</option>
+    <option value="alizalatumbo19@gmail.com">alizalatumbo19@gmail.com</option>
+    <option value="davesher182007@gmail.com">davesher
